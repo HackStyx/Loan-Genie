@@ -18,6 +18,12 @@
 
 A modern, AI-powered loan prediction and management system with multi-language support.
 
+## 🏗️ System Architecture
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/82ca5a19-11c5-4960-9fb2-04dfd15cf5df" alt="Loan Genie System Architecture" width="800"/>
+  <p><em>High-level architecture of the Loan Genie system</em></p>
+</div>
+
 </div>
 
 ## ✨ Features
