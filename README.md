@@ -10,13 +10,14 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3.0-orange?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Sarvam AI](https://img.shields.io/badge/Sarvam%20AI-API-blue?logo=openai&logoColor=white)](https://sarvam.ai/)
 [![Supabase](https://img.shields.io/badge/Supabase-2.0.0-green?logo=supabase&logoColor=white)](https://supabase.com/)
+[![Groq](https://img.shields.io/badge/Groq-LLM-purple?logo=openai&logoColor=white)](https://groq.com/)
 [![License](https://img.shields.io/badge/License-MIT-green?logo=license&logoColor=white)](LICENSE)
 [![Code Quality](https://img.shields.io/badge/Code%20Quality-A+-green?logo=code-quality&logoColor=white)](https://github.com/HackStyx/Loan-Genie)
 [![Dependencies](https://img.shields.io/badge/Dependencies-Up%20to%20date-green?logo=dependencies&logoColor=white)](https://github.com/HackStyx/Loan-Genie/network/dependencies)
 [![Contributions](https://img.shields.io/badge/Contributions-Welcome-green?logo=github&logoColor=white)](https://github.com/HackStyx/Loan-Genie/graphs/contributors)
 [![Stars](https://img.shields.io/github/stars/HackStyx/Loan-Genie?style=social&logo=github&logoColor=white)](https://github.com/HackStyx/Loan-Genie/stargazers)
 
-A modern, AI-powered loan prediction and management system with multi-language support.
+A modern, AI-powered loan prediction and management system with multi-language support and an intelligent digital assistant.
 
 ## 🏗️ System Architecture
 <div align="center">
@@ -33,6 +34,16 @@ A modern, AI-powered loan prediction and management system with multi-language s
 - **Confidence Scoring**: Get detailed insights into your application's approval probability
 - **Personalized Recommendations**: Receive tailored suggestions to improve your loan application
 - **Instant Results**: No waiting - get your loan eligibility assessment in seconds
+
+### 👨‍💼 AI-Powered Digital Assistant (Amol)
+- **Multilingual Support**: Natural conversation in 11 Indian languages
+- **Real-time Voice & Text Interaction**: Seamless communication through voice or text
+- **Context-Aware Responses**: Intelligent understanding of loan-related queries
+- **Dynamic Facial Expressions**: Emotional intelligence in responses
+- **Lip-Synchronized Speech**: Natural speaking avatar
+- **Persistent Chat History**: Save and review past conversations
+- **Real-time Translation**: Instant translation between languages
+- **Speech Recognition**: Accurate voice input processing
 
 ### 🌐 Seamless Multi-Language Experience
 - **11 Indian Languages**: Access the platform in your preferred language
@@ -136,12 +147,29 @@ A modern, AI-powered loan prediction and management system with multi-language s
 - **Authentication**: Supabase Auth
 - **File Upload**: React Dropzone
 - **Notifications**: React Hot Toast
+- **3D Rendering**: 
+  - Three.js
+  - React Three Fiber
+  - React Three Drei
+  - Ready Player Me Avatar Creator
+- **Development Tools**:
+  - ESLint
+  - Prettier
+  - TypeScript
 
 ### Backend
 - **Framework**: FastAPI
 - **ML Framework**: scikit-learn
 - **Database**: Supabase
 - **File Storage**: Supabase Storage
+- **AI Services**:
+  - Groq LLM (Mixtral-8x7b-32768)
+  - Sarvam AI Services
+  - ElevenLabs Node
+- **Data Validation**: Zod
+- **Development Tools**:
+  - Nodemon
+  - dotenv
 
 ### Machine Learning
 - **Model**: Random Forest Classifier
@@ -156,6 +184,23 @@ A modern, AI-powered loan prediction and management system with multi-language s
   - Mortgage value
   - Account types
   - Online banking usage
+
+### AI & ML Services
+- **Language Model**: Groq Mixtral-8x7b-32768
+- **Speech Services**:
+  - Text-to-Speech: Sarvam AI
+  - Speech Recognition: Sarvam AI
+  - Voice Synthesis: ElevenLabs
+- **Language Processing**:
+  - Translation: Sarvam AI
+  - Language Detection: Sarvam AI
+  - Text Analytics: Sarvam AI
+
+### Animation & Graphics
+- **Avatar System**: Ready Player Me
+- **3D Rendering**: Three.js
+- **Lip Sync**: Rhubarb Lip Sync
+- **Post-processing**: React Three Postprocessing
 
 ## 🚀 Getting Started
 
