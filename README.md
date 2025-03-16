@@ -1,16 +1,20 @@
-# Loan Genie 🧞‍♂️
+# Loan Genie
 
 <div align="center">
 
-[![React](https://img.shields.io/badge/React-18.2.0-blue.svg)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.7.2-blue.svg)](https://www.typescriptlang.org/)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.109.2-green.svg)](https://fastapi.tiangolo.com/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3.0-38B2AC.svg)](https://tailwindcss.com/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3.2-orange.svg)](https://scikit-learn.org/)
-[![Sarvam AI](https://img.shields.io/badge/Sarvam%20AI-Translation-blue.svg)](https://sarvam.ai/)
-[![Supabase](https://img.shields.io/badge/Supabase-Auth%20&%20Storage-green.svg)](https://supabase.com/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react&logoColor=white)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0.0-blue?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.104.0-green?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3.0-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3.0-orange?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Sarvam AI](https://img.shields.io/badge/Sarvam%20AI-API-blue?logo=openai&logoColor=white)](https://sarvam.ai/)
+[![Supabase](https://img.shields.io/badge/Supabase-2.0.0-green?logo=supabase&logoColor=white)](https://supabase.com/)
+[![License](https://img.shields.io/badge/License-MIT-green?logo=license&logoColor=white)](LICENSE)
+[![Code Quality](https://img.shields.io/badge/Code%20Quality-A+-green?logo=code-quality&logoColor=white)](https://github.com/HackStyx/Loan-Genie)
+[![Dependencies](https://img.shields.io/badge/Dependencies-Up%20to%20date-green?logo=dependencies&logoColor=white)](https://github.com/HackStyx/Loan-Genie/network/dependencies)
+[![Contributions](https://img.shields.io/badge/Contributions-Welcome-green?logo=github&logoColor=white)](https://github.com/HackStyx/Loan-Genie/graphs/contributors)
+[![Stars](https://img.shields.io/github/stars/HackStyx/Loan-Genie?style=social&logo=github&logoColor=white)](https://github.com/HackStyx/Loan-Genie/stargazers)
 
 A modern, AI-powered loan prediction and management system with multi-language support.
 
