@@ -165,7 +165,6 @@ A modern, AI-powered loan prediction and management system with multi-language s
 - **AI Services**:
   - Groq LLM (Mixtral-8x7b-32768)
   - Sarvam AI Services
-  - ElevenLabs Node
 - **Data Validation**: Zod
 - **Development Tools**:
   - Nodemon
@@ -190,7 +189,6 @@ A modern, AI-powered loan prediction and management system with multi-language s
 - **Speech Services**:
   - Text-to-Speech: Sarvam AI
   - Speech Recognition: Sarvam AI
-  - Voice Synthesis: ElevenLabs
 - **Language Processing**:
   - Translation: Sarvam AI
   - Language Detection: Sarvam AI
